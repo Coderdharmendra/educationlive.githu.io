@@ -1,1 +1,1 @@
-# educationlive.githu.io
+# educationlive.github.io
